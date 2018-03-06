@@ -13,9 +13,8 @@ import (
 	"github.com/Azure/blobporter/pipeline"
 	"github.com/Azure/blobporter/transfer"
 	"github.com/Azure/blobporter/util"
-	"github.com/Azure/blobporter/internal"
+	"github.com/amramtamir/blobporter/private"
 )
-
 
 var argsUtil paramParserValidator
 

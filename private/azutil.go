@@ -13,7 +13,6 @@ import (
 	"time"
 
 	"github.com/Azure/azure-pipeline-go/pipeline"
-
 	"github.com/Azure/azure-storage-blob-go/2016-05-31/azblob"
 )
 

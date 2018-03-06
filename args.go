@@ -8,11 +8,11 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/Azure/blobporter/internal"
 	"github.com/Azure/blobporter/sources"
 	"github.com/Azure/blobporter/targets"
 	"github.com/Azure/blobporter/transfer"
 	"github.com/Azure/blobporter/util"
+	"github.com/amramtamir/blobporter/private"
 )
 
 //user env names
